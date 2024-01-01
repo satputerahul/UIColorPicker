@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  ColorPicker
-//
-//  Created by DevMAC01 on 09/12/23.
-//
 
 import SwiftUI
 
